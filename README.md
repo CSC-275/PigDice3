@@ -7,7 +7,7 @@ in the fewest turns. To accomplish this, you will create a <b>NewGame</b> class 
 Pig Dice 2.0 solution. Derived classes like the <b>NewGame</b> class significantly improve reusability of a program through the principle of 
 inheritance. 
 
-You will also learn how to create documentation of the projects architecture to show how the objects in the program are related. This is 
+You will also learn how to create documentation of the projects architecture to show how the classes in the program are related. This is 
 especially useful when you are modifying existing code or adding new objects to provide more features to the existing code base.
 
 "Unified Modeling Language" (UML) is a standard visual notation used to design and document object-oriented programming (OOP) systems, 
