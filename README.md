@@ -20,7 +20,7 @@ illustrates relationships between classes, including inheritance, association, a
 
 
 ## Directions
-Create a derived class named NewGame. The NewGame class should include string variables for each players full name, each player's score, and reuse the Game class defined in Pig Dice 2.0. 
+Create a derived class named <b>NewGame</b>. The <b>NewGame</b> class should include string variables for each players full name, each player's score, and reuse through inheritance, the Game class defined in Pig Dice 2.0. 
 
 <b>Note: Your solution must recreate the <i>exact</i> user interface shown below.</b>
 
