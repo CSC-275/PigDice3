@@ -24,6 +24,9 @@ Create a derived class named <b>NewGame</b>. The <b>NewGame</b> class should inc
 
 <b>Note: Your solution must recreate the <i>exact</i> user interface shown below.</b>
 
+## Pig Dice 3.0 UML Diagram 
+<img src="PigDice3_UML.png" alt="Pig Dice 3.0 UML" width="550">
+
 ## Interface Prototype Example
 
 ### Test Case Output
