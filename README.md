@@ -1,4 +1,4 @@
-# Pig Dice 3.0
+# Pig Dice Multi-Player Version
 
 ## Background
 After creating a solution for the basic Pig Dice game, we now have an object oriented solution. The next version of this game will 
