@@ -1,26 +1,15 @@
 # Pig Dice 3.0
 
 ## Background
-After creating a solution for Pig Dice 2.0, we now have an object oriented solution to the Pig Dice game. The next version of this game will 
-enhance the Pig Dice 2.0 game so that it supports a two player game where the players compete against one another to see who can reach 50 points 
-in the fewest turns. To accomplish this, you will create a <b>NewGame</b> class that will be derived from the <b>Game</b> class created in the 
-Pig Dice 2.0 solution. Derived classes like the <b>NewGame</b> class significantly improve reusability of a program through the principle of 
-inheritance. 
+After creating a solution for the basic Pig Dice game, we now have an object oriented solution. The next version of this game will 
+enhance the Pig Dice game so that it supports multiple players where each person compete against one another to see who can reach 50 points 
+in the fewest turns. To accomplish this, you will create a <b>PDGameV2</b> class that will be derived from the <b>PDGame</b> class created in the earlier Pig Dice solution. Derived classes like the <b>PDGameV2</b> class significantly improve reusability of a program through the principle of inheritance. 
 
-You will also learn how to create documentation of the projects architecture to show how the classes in the program are related. This is 
+You are also being asked to recreate documentation of the projects architecture which show how the classes in the program are related. This is 
 especially useful when you are modifying existing code or adding new objects to provide more features to the existing code base.
 
-"Unified Modeling Language" (UML) is a standard visual notation used to design and document object-oriented programming (OOP) systems, 
-allowing developers to graphically represent the structure, behavior, and relationships between different classes and objects within a 
-software system.
-
-Class diagrams are a central component of UML, showing the attributes, methods, and relationships between classes within a system. UML clearly
-illustrates relationships between classes, including inheritance, association, aggregation, and composition.
-
-
-
 ## Directions
-Create a derived class named <b>NewGame</b>. The <b>NewGame</b> class should include string variables for each players full name, each player's score, and reuse through inheritance, the Game class defined in Pig Dice 2.0. 
+Create a derived class named <b>PDGameV2</b>. The <b>PDGameV2</b> class should include string variables for each players full name, each player's score, and reuse through inheritance, the PDGame class defined in the earlier Pig Dice game. 
 
 <b>Note: Your solution must recreate the <i>exact</i> user interface shown below.</b>
 
@@ -37,8 +26,9 @@ Create a derived class named <b>NewGame</b>. The <b>NewGame</b> class should inc
 * If you roll a 1, you lose all points for the turn.
 * If you hold, you save all points for the turn.
 
-Enter player1's name: Don Duck
-Enter player2's name: Mick Mouse
+How many people are playing? 2
+Enter player 1's name: Don Duck
+Enter player 2's name: Mick Mouse
 
 
 Don Duck (Score:0) - TURN 1
